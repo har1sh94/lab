@@ -1,0 +1,12 @@
+[{
+    "name": "Football",
+    "players": 11,
+    "pitch": "outside",
+    "image": "https://domf5oio6qrcr.cloudfront.net/medialibrary/9833/GettyImages-526245433.jpg"
+},
+{
+    "name": "Basketball",
+    "players": 10,
+    "pitch": "inside",
+    "image": "https://example.com/image2.jpg"
+}]
